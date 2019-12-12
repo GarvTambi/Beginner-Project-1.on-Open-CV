@@ -1,1 +1,1 @@
-# Beginner-Project-1.on-Open-CV
+# Beginner-Project-1. on-Open-CV
